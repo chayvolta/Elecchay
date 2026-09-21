@@ -1,2 +1,3 @@
 # Elecchay
-Cloned from gisgek/Intermedias2026
+
+Análisis Geoelectoral por el Mtro. Said Figueroa
